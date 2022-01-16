@@ -3,7 +3,7 @@ JBrowser is a simple headless browser library in Java using Jsoup for fetching a
 
 ## Build.
 
-* `$ git clone https://github.com/UmarAbdul01/JBrowser.git`
+* `$ git clone https://github.com/4g3nt47/JBrowser.git`
 * `$ cd JBrowser`
 * `$ ant fat-jar`
 * Copy `jbrowser.jar` to your classpath.
